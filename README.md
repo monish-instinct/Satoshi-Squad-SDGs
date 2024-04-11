@@ -26,3 +26,4 @@ The ultimate goal of the Indian Smart City Dashboard is to contribute to the lon
 # Presentation
 https://docs.google.com/presentation/d/1CP7ahYf5hwvH2KUSVSIkL-PbCwMDJ5DXVpUML4V6CY0/edit?usp=sharing
 
+<br><img width="1388" alt="Screenshot 2024-04-11 at 11 48 19 PM" src="https://github.com/monish-instinct/Satoshi-Squad-SDGs/assets/113701884/34420e24-6c24-4bc0-90f2-53d34c94c758">
