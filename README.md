@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Partnership+for+Goals...&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 Collaboration and Partnerships: The dashboard promotes collaboration and partnerships among various stakeholders, including municipal authorities, property owners, residents, and businesses. By fostering communication and knowledge sharing, it enables stakeholders to work together towards common sustainability goals.
 
 Data Sharing and Transparency: The platform promotes transparency through open data initiatives, making information on resource consumption and building performance accessible to all stakeholders. This transparency encourages accountability and fosters trust among partners.
