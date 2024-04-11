@@ -2,12 +2,24 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Partnership+for+Goals...&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-Collaboration and Partnerships: The dashboard promotes collaboration and partnerships among various stakeholders, including municipal authorities, property owners, residents, and businesses. By fostering communication and knowledge sharing, it enables stakeholders to work together towards common sustainability goals.
+The Indian Smart City Dashboard is a collaborative platform designed to facilitate sustainable urban development in India. By harnessing AI and smart home technology, it empowers municipal authorities, property owners, and residents to make informed decisions for resource optimization and environmental sustainability.
 
-Data Sharing and Transparency: The platform promotes transparency through open data initiatives, making information on resource consumption and building performance accessible to all stakeholders. This transparency encourages accountability and fosters trust among partners.
+Key features include real-time monitoring of building metrics such as energy consumption and air quality, AI-driven insights and recommendations, and transparent data sharing to foster accountability and trust among stakeholders. Through partnerships and collaboration, the dashboard aims to drive long-term sustainability and resilience in Indian cities.
 
-Capacity Building: By providing data-driven insights and recommendations, the dashboard helps build the capacity of municipal authorities and property owners to make informed decisions for sustainable urban development. It empowers stakeholders with the tools and knowledge they need to contribute effectively to the SDGs.
+## Collaboration and Partnerships
+The dashboard promotes collaboration and partnerships among various stakeholders, including municipal authorities, property owners, residents, and businesses. By fostering communication and knowledge sharing, it enables stakeholders to work together towards common sustainability goals.
 
-Innovation and Technology Transfer: The use of AI, IoT, and smart home technology in the dashboard represents an innovative approach to addressing urban sustainability challenges. Through technology transfer and knowledge exchange, the platform can inspire other cities and regions to adopt similar solutions.
+## Data Sharing and Transparency
+The platform promotes transparency through open data initiatives, making information on resource consumption and building performance accessible to all stakeholders. This transparency encourages accountability and fosters trust among partners.
 
-Long-Term Impact: The ultimate goal of the Indian Smart City Dashboard is to contribute to the long-term sustainability and resilience of Indian cities. By facilitating partnerships and collaboration, the platform supports the achievement of multiple SDGs, including those related to sustainable cities and communities, climate action, and responsible consumption and production.
+## Capacity Building
+By providing data-driven insights and recommendations, the dashboard helps build the capacity of municipal authorities and property owners to make informed decisions for sustainable urban development. It empowers stakeholders with the tools and knowledge they need to contribute effectively to the SDGs.
+
+## Innovation and Technology Transfer
+The use of AI, IoT, and smart home technology in the dashboard represents an innovative approach to addressing urban sustainability challenges. Through technology transfer and knowledge exchange, the platform can inspire other cities and regions to adopt similar solutions.
+
+## Long-Term Impact
+The ultimate goal of the Indian Smart City Dashboard is to contribute to the long-term sustainability and resilience of Indian cities. By facilitating partnerships and collaboration, the platform supports the achievement of multiple SDGs, including those related to sustainable cities and communities, climate action, and responsible consumption and production.
+
+# Presentation
+https://docs.google.com/presentation/d/1CP7ahYf5hwvH2KUSVSIkL-PbCwMDJ5DXVpUML4V6CY0/edit?usp=sharing
