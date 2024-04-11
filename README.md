@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Partnership+for+Goals...&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
+<img width="1385" alt="invest" src="https://github.com/monish-instinct/Satoshi-Squad-SDGs/assets/113701884/ffd46953-bc32-440e-98c6-470b8b6f26d7"><br>
+
 The Indian Smart City Dashboard is a collaborative platform designed to facilitate sustainable urban development in India. By harnessing AI and smart home technology, it empowers municipal authorities, property owners, and residents to make informed decisions for resource optimization and environmental sustainability.
 
 Key features include real-time monitoring of building metrics such as energy consumption and air quality, AI-driven insights and recommendations, and transparent data sharing to foster accountability and trust among stakeholders. Through partnerships and collaboration, the dashboard aims to drive long-term sustainability and resilience in Indian cities.
@@ -23,3 +25,4 @@ The ultimate goal of the Indian Smart City Dashboard is to contribute to the lon
 
 # Presentation
 https://docs.google.com/presentation/d/1CP7ahYf5hwvH2KUSVSIkL-PbCwMDJ5DXVpUML4V6CY0/edit?usp=sharing
+
