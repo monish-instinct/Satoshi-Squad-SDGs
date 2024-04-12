@@ -24,6 +24,6 @@ The use of AI, IoT, and smart home technology in the dashboard represents an inn
 The ultimate goal of the Indian Smart City Dashboard is to contribute to the long-term sustainability and resilience of Indian cities. By facilitating partnerships and collaboration, the platform supports the achievement of multiple SDGs, including those related to sustainable cities and communities, climate action, and responsible consumption and production.
 
 # Presentation
-https://docs.google.com/presentation/d/1CP7ahYf5hwvH2KUSVSIkL-PbCwMDJ5DXVpUML4V6CY0/edit?usp=sharing
+https://www.canva.com/design/DAGCN2oQix8/xTBU5pdIGO4_R6rH_OL3vw/edit?utm_content=DAGCN2oQix8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <br><img width="1388" alt="Screenshot 2024-04-11 at 11 48 19 PM" src="https://github.com/monish-instinct/Satoshi-Squad-SDGs/assets/113701884/34420e24-6c24-4bc0-90f2-53d34c94c758">
