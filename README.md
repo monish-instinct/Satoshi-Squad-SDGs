@@ -3,6 +3,7 @@
 </p>
 
 <img width="1385" alt="invest" src="https://github.com/monish-instinct/Satoshi-Squad-SDGs/assets/113701884/ffd46953-bc32-440e-98c6-470b8b6f26d7"><br>
+<img width="1385" alt="invest" src="https://github.com/monish-instinct/Satoshi-Squad-SDGs/assets/113701884/ffd46953-bc32-440e-98c6-470b8b6f26d7"><br>
 
 The Indian Smart City Dashboard is a collaborative platform designed to facilitate sustainable urban development in India. By harnessing AI and smart home technology, it empowers municipal authorities, property owners, and residents to make informed decisions for resource optimization and environmental sustainability.
 
